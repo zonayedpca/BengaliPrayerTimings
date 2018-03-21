@@ -3,6 +3,11 @@
 npm install
 ```
 
+## ডেভেলপমেন্টঃ 
+```
+npm start
+```
+
 ## বিউল্ডঃ
 ```
 npm run build
